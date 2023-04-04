@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-banner {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.Title {
+  font-family: 'NanumSquareRound';
+  font-size: 3.5vmin;
+}
+
+.App-header {
+  background-color: #ff625d;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
